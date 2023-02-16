@@ -1,4 +1,4 @@
-# Let's Start With Djanog A Beginners Guide
+# Let's Start With Django, A Beginners Guide
 
 Django follows MVT architecture,
 MVT - Model View Template Concept
